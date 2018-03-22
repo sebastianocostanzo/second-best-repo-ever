@@ -1,0 +1,11 @@
+{
+  "orgName": "hedasbtestextumg - Dev Workspace",
+  "edition": "Developer",
+  "orgPreferences" : {
+    "enabled": [
+      "S1DesktopEnabled",
+      "Translation",
+      "ChatterEnabled"
+    ]
+  }
+}
