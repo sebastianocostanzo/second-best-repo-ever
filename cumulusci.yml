@@ -2,7 +2,7 @@ project:
     name: testTDX18
     package:
         name: testTDX18
-        namespace: testTDX18
+        namespace: hedsebtestext
     dependencies:
         - github: https://github.com/SalesforceFoundation/HEDAP
 orgs:
